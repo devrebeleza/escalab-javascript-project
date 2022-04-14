@@ -1,0 +1,11 @@
+POST https://30kd6edtfc.execute-api.us-east-1.amazonaws.com/prod/send-email
+Accept: application/json
+Content-Type: application/json
+
+{
+ "name": "RenzoGarcia",
+ "email": "emailemail.com", 
+ "phone": "+548955881", 
+ "select": "html5", 
+ "comment": "a comentt"
+}
